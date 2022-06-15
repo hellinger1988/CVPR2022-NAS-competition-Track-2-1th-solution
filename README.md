@@ -9,12 +9,13 @@
 ## 项目结构
 > 一目了然的项目结构能帮助更多人了解，目录树以及设计思想都很重要~
 ```
--|data
--|work
+
+-|CVPR_2022_NAS_Track2_submit_ACCNAS_1.json 最终结果1
+-|CVPR_2022_NAS_Track2_submit_ACCNAS_2.json 最终结果2
+-|CVPR_2022_NAS_Track2_test.json test数据
+-|CVPR_2022_NAS_Track2_train.json train数据
+-main.ipynb 主文件
 -README.MD
--xxx.ipynb
 ```
 ## 使用方式
-> 相信你的Fans已经看到这里了，快告诉他们如何快速上手这个项目吧~  
-A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)  
-B：此处由项目作者进行撰写使用方式。
+> 运行main.ipynb,请将数据路径改为本地路径
