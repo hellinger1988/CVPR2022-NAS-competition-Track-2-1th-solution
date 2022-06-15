@@ -7,9 +7,8 @@
 堆叠模型，集成模型, 交叉验证，GP-NAS
 
 ## 项目结构
-> 一目了然的项目结构能帮助更多人了解，目录树以及设计思想都很重要~
-```
 
+```
 -|CVPR_2022_NAS_Track2_submit_ACCNAS_1.json 最终结果1
 -|CVPR_2022_NAS_Track2_submit_ACCNAS_2.json 最终结果2
 -|CVPR_2022_NAS_Track2_test.json test数据
