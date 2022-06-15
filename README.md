@@ -17,5 +17,6 @@
 -README.MD
 ```
 ## 使用方式
-> 请提前准备package catboost,lightgbm,xgboost,sklearn,numpy,copy,json
+> 请提前准备package: catboost,lightgbm,xgboost,sklearn,numpy,copy,json
+> 
 > 运行main.ipynb,请将数据路径改为本地路径
